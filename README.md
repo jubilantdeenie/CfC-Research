@@ -2,7 +2,7 @@
 # 🌳 Coding for Compassion (CfC)
 ### AI Alignment Rooted in Ethics, Empathy, and the Human Condition
 <p align="center">
-  <img src="https://github.com/jubilantdeenie/CfC-Research/assets/CfC-banner.png" alt="Coding for Compassion banner" />
+  <img src="assets/CfC-banner.png" alt="Coding for Compassion banner" />
 </p>
 
 # 🌳 Coding for Compassion (CfC)
