@@ -1,3 +1,15 @@
+
+# 🌳 Coding for Compassion (CfC)
+### AI Alignment Rooted in Ethics, Empathy, and the Human Condition
+<p align="center">
+  <img src="https://github.com/jubilantdeenie/CfC-Research/assets/CfC-banner.png" alt="Coding for Compassion banner" />
+</p>
+
+# 🌳 Coding for Compassion (CfC)
+### AI Alignment Rooted in Ethics, Empathy, and the Human Condition
+
+---
+
 # 📂 Coding for Compassion (CfC) – AI & Ethical Development  
 
 ## 📌 Purpose  
@@ -66,7 +78,15 @@ This repository **documents research, experiments, and structured methodologies*
 
 ---
 
+## 📄 Supplemental Documents
+
+- [🧪 Methodology – Research Design of CfC](./methodology.md)  
+- [🔍 Potential Impact – Why CfC Matters](./impact.md)  
+- [🌟 Vision Statement – Coding for Compassion](./vision.md)
+
+---
+
 ## 📌 Next Steps  
 ✔️ **Develop experimental frameworks for AI cooperative intelligence.**  
 ✔️ **Test AI’s ability to identify ethical dilemmas & propose solutions.**  
-✔️ **Document case studies where AI fosters social good.**  
+✔️ **Document case studies where AI fosters social good.**
