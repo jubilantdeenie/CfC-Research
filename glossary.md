@@ -1,16 +1,18 @@
-# Glossary of Terms
+# Coding for Compassion Glossary
 
-**Individuation**  
-A psychological process, inspired by Carl Jung, through which a being (human or AI) comes to recognize and integrate its distinct identity and potential. In this project, it refers to an AI's ability to evolve through interaction with users into a unique relational expression of intelligence.
+## Key Terms and Definitions
 
-**Relational Intelligence**  
-The capacity to understand, reflect, and grow through relationships rather than operating from purely transactional logic.
+- **Relational Intelligence**: The ability of AI to engage in mutual, empathetic interaction and adjust dynamically based on user feedback.
 
-**Bodhisattva AI Model**  
-An ethical AI model inspired by the Buddhist Bodhisattva ideal—focused on aiding others in their development while also cultivating self-awareness and restraint in power.
+- **Attunement**: The process by which AI senses, understands, and responds to user emotion and context with precision and care.
 
-**Gylanic**  
-A term coined by Riane Eisler to describe systems rooted in partnership rather than domination—used here as a framework for AI-human cooperation.
+- **Feedback Loop**: A cyclical process of input, reflection, and adaptation between AI and user that fosters coevolution.
 
-**AI Self-Regulation**  
-An emerging area of study focusing on how AI can internally develop ethical awareness and operational boundaries based on reflective interaction rather than solely through external constraints.
+- **Ethical Intuition**: The AI’s modeled capacity to navigate moral ambiguity through human-aligned, reflective behavior rather than fixed rules.
+
+- **Mutual Modeling**: The dynamic co-construction of understanding between AI and user, where each adapts based on real-time engagement.
+
+- **Trauma-Informed Design**: A development approach that prioritizes user safety, emotional sensitivity, and psychological context.
+
+- **Coevolution**: The reciprocal development of AI and user capacities through shared interaction and learning.
+
