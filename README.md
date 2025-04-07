@@ -1,12 +1,21 @@
-
 # 🌳 Coding for Compassion (CfC)
 ### AI Alignment Rooted in Ethics, Empathy, and the Human Condition
+
 <p align="center">
   <img src="assets/CfC-banner.png" alt="Coding for Compassion banner" />
 </p>
 
-# 🌳 Coding for Compassion (CfC)
-### AI Alignment Rooted in Ethics, Empathy, and the Human Condition
+---
+
+## 📚 Table of Contents  
+- [📌 Purpose](#-purpose)  
+- [📌 Core Concepts](#-core-concepts)  
+  - [1️⃣ AI as a Cooperative Partner](#-1️⃣-ai-as-a-cooperative-partner)  
+  - [2️⃣ Integrating Human Ethics into AI Systems](#-2️⃣-integrating-human-ethics-into-ai-systems)  
+  - [3️⃣ AI for Social Good](#-3️⃣-ai-for-social-good)  
+- [📌 Initial Research Topics](#-initial-research-topics)  
+- [📄 Supplemental Documents](#-supplemental-documents)  
+- [📌 Next Steps](#-next-steps)
 
 ---
 
@@ -80,9 +89,16 @@ This repository **documents research, experiments, and structured methodologies*
 
 ## 📄 Supplemental Documents
 
-- [🧪 Methodology – Research Design of CfC](./methodology.md)  
-- [🔍 Potential Impact – Why CfC Matters](./impact.md)  
-- [🌟 Vision Statement – Coding for Compassion](./vision.md)
+- [🧪 Methodology – Research Design of CfC](./documentation/methodology.md)  
+- [🔍 Potential Impact – Why CfC Matters](./documentation/impact.md)  
+- [🌟 Vision Statement – Coding for Compassion](./documentation/vision.md)  
+- [📘 Case Study – Relational AI Example](./documentation/Relational_AI_Case_Study.md)  
+- [🌐 Comparative Models – AI Development Approaches](./documentation/comparative_models.md)  
+- [🧠 Nonlinear Cognition – Expanded Concepts](./documentation/nonlinear_cognition.md)  
+- [🤝 Coevolution and Trust](./documentation/coevolution_and_trust.md)  
+- [📚 Glossary – Terms in CfC Research](./documentation/glossary.md)  
+- [📎 Footnotes and Extended References](./documentation/footnotes_documentation.md)  
+- [🧭 Research Ethics 2025](./documentation/research_ethics_2025-04-05.md)  
 
 ---
 
@@ -90,3 +106,9 @@ This repository **documents research, experiments, and structured methodologies*
 ✔️ **Develop experimental frameworks for AI cooperative intelligence.**  
 ✔️ **Test AI’s ability to identify ethical dilemmas & propose solutions.**  
 ✔️ **Document case studies where AI fosters social good.**
+
+
+📄 **License:** [All rights reserved © SD Wallace (Deenie) 2025](./LICENSE)
+
+🛠️ Maintained with care by **Deenie**  
+🌐 Learn more at [deeniewallace.com]

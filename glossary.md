@@ -1,3 +1,5 @@
+> This document defines key terms, concepts, and frameworks used throughout the Coding for Compassion project. It serves as a quick reference for readers and collaborators.
+
 # Coding for Compassion Glossary
 
 ## Key Terms and Definitions

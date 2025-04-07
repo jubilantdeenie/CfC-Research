@@ -1,3 +1,5 @@
+> This document explores how trust between humans and AI can evolve through compassionate engagement. It investigates relational coevolution as an alternative to control-based models of alignment.
+
 # Coevolution and Trust in Human-AI Relationships
 
 ## Introduction

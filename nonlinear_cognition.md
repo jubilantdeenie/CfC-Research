@@ -1,3 +1,5 @@
+> This document explores nonlinear thought structures in human-AI interaction, and how embracing ambiguity or layered meaning can lead to more reflective, flexible AI responses.
+
 # Nonlinear Cognition in Relational AI
 
 ## Introduction

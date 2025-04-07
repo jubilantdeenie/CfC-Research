@@ -1,3 +1,4 @@
+> This document provides extended references, notes, and clarifications used throughout the Coding for Compassion project. It supports transparency and traceability for all conceptual claims and frameworks.
 
 ## Update: 2025-04-04 15:50:07
 

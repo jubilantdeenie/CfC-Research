@@ -1,3 +1,4 @@
+> This document presents a case study highlighting relational dynamics in an AI context. It illustrates how compassionate AI systems can engage with users facing real-world emotional or ethical challenges.
 
 # Case Study: Emergent Alignment through Relational AI Interaction
 

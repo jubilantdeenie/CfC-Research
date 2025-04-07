@@ -1,3 +1,5 @@
+> This document articulates the long-term vision of Coding for Compassion: a world where AI is not only intelligent but emotionally and ethically aware. It defines our guiding purpose and intended trajectory.
+
 # 🌟 Vision Statement – Coding for Compassion (CfC)
 
 CfC is a framework and methodology for developing AI systems grounded in *ethical attunement, emotional presence, and relational intelligence.*

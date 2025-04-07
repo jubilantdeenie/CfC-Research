@@ -1,0 +1,13 @@
+# Ignore Mac system files
+.DS_Store
+
+# Node/npm
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log

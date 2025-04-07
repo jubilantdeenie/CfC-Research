@@ -1,3 +1,5 @@
+> This document outlines the ethical principles guiding CfC research practices as of April 2025. It reflects on responsible inquiry, consent, safety, and transparency in building co-creative AI.
+
 # Research Ethics in Relational AI (2025-04-05)
 
 ## Overview

@@ -1,3 +1,5 @@
+> This document compares traditional AI alignment strategies with the Coding for Compassion approach. It highlights structural differences and proposes a paradigm shift toward relational intelligence.
+
 # Comparative Models of AI Frameworks
 
 ## Overview

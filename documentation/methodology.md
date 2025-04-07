@@ -1,3 +1,5 @@
+> This document describes the research methods used in developing the Coding for Compassion framework. It covers core assumptions, guiding principles, and the structure of inquiry and validation.
+
 # 🧪 Methodology – Research Design of Coding for Compassion (CfC)
 
 This document outlines the experimental frameworks and guiding principles behind CfC’s development. It merges lived experience, human-centered theory, and experimental interaction with large language models (LLMs).
