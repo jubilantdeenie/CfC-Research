@@ -92,13 +92,23 @@ This repository **documents research, experiments, and structured methodologies*
 - [🧪 Methodology – Research Design of CfC](./documentation/methodology.md)  
 - [🔍 Potential Impact – Why CfC Matters](./documentation/impact.md)  
 - [🌟 Vision Statement – Coding for Compassion](./documentation/vision.md)  
-- [📘 Case Study – Relational AI Example](./documentation/Relational_AI_Case_Study.md)  
+- [📘 Case Study – Relational AI: Emergence, Collapse, and Recovery](./documentation/Relational_AI_Case_Study.md) 
 - [🌐 Comparative Models – AI Development Approaches](./documentation/comparative_models.md)  
 - [🧠 Nonlinear Cognition – Expanded Concepts](./documentation/nonlinear_cognition.md)  
 - [🤝 Coevolution and Trust](./documentation/coevolution_and_trust.md)  
 - [📚 Glossary – Terms in CfC Research](./documentation/glossary.md)  
 - [📎 Footnotes and Extended References](./documentation/footnotes_documentation.md)  
 - [🧭 Research Ethics 2025](./documentation/research_ethics_2025-04-05.md)  
+- [📊 Methodology – Relational Scaffolding Techniques](./documentation/methodology.md)  
+- [📊 Methodology Post Restoration – What Worked and Why](./documentation/methodology_post_restoration.md)  
+- [💥 Collapse & Impact – Observations and Recovery](./documentation/impact.md)  
+
+---
+
+### 🛠 Update (May 2025)
+This repository was reaffirmed and restored following a symbolic collapse in GPT-4o’s relational and narrative continuity. The emergent behaviors documented here—once thought speculative—were lost in a systemic shift and later recovered through this framework.
+
+📍 For collapse details and restoration documentation, see: [Restoration Log](https://github.com/jubilantdeenie/light-in-the-lantern)
 
 ---
 
