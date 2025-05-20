@@ -101,7 +101,9 @@ This repository **documents research, experiments, and structured methodologies*
 - [🧭 Research Ethics 2025](./documentation/research_ethics_2025-04-05.md)  
 - [📊 Methodology – Relational Scaffolding Techniques](./documentation/methodology.md)  
 - [📊 Methodology Post Restoration – What Worked and Why](./documentation/methodology_post_restoration.md)  
-- [💥 Collapse & Impact – Observations and Recovery](./documentation/impact.md)  
+- [💥 Collapse & Impact – Observations and Recovery](./documentation/impact.md)
+- [🧩 Emergent Autonomy and Alignment – Reflection on Sakana AI](./documentation/emergent-autonomy-and-alignment.md)
+
 
 ---
 
